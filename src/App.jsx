@@ -18,7 +18,7 @@ export default function KKAcessoriosStore() {
       price: "R$ 69,90",
       oldPrice: "R$ 99,90",
       badge: "Oferta",
-      image: image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80",
       description: "Kit completo para make impecável no dia a dia.",
       cta: "Comprar agora"
     },
