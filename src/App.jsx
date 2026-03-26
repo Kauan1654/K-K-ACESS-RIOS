@@ -30,7 +30,7 @@ export default function App() {
       price: "R$ 29,90",
       oldPrice: "R$ 49,90",
       badge: "🔥 Promoção",
-      img: "https://images.unsplash.com/photo-1583001931096-959e9a1a6223?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80"
     }
   ];
 
