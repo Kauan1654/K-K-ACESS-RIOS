@@ -23,14 +23,14 @@ export default function App() {
       price: "R$ 59,90",
       oldPrice: "R$ 89,90",
       badge: "💄 Novo",
-      img: "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      img: "https://img.freepik.com/fotos-premium/paleta-de-sombra_250469-7782.jpg"
     },
     {
       name: "Batom Matte",
       price: "R$ 29,90",
       oldPrice: "R$ 49,90",
       badge: "🔥 Promoção",
-      img: "https://images.unsplash.com/photo-1585386959984-a415522316e9?auto=format&fit=crop&w=800&q=80"
+      img: "https://static1.purepeople.com.br/articles/1/27/41/51/@/3116471-batom-vermelho-matte-opcao-da-acabament-opengraph_1200-1.png"
     }
   ];
 
