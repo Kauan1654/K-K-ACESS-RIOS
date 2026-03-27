@@ -39,7 +39,7 @@ export default function App() {
   badge: "💄 Novo",
   img: "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=800&q=80"
  } 
-  
+  ];
   return (
     <div style={{ fontFamily: "Arial" }}>
 
