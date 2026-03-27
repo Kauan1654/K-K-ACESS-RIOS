@@ -9,7 +9,7 @@ export default function App() {
       price: "R$ 49,90",
       oldPrice: "R$ 79,90",
       badge: "🔥 Mais vendido",
-      img: "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=800&q=80"
+      img: "https://png.pngtree.com/png-vector/20230414/ourlarge/pngtree-liquid-foundation-glass-bottle-cosmetics-transparent-png-image_6697893.png"
     },
     {
       name: "Kit Pincéis Profissionais",
