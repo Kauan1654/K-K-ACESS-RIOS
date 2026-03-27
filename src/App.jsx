@@ -31,9 +31,15 @@ export default function App() {
       oldPrice: "R$ 49,90",
       badge: "🔥 Promoção",
       img: "https://static1.purepeople.com.br/articles/1/27/41/51/@/3116471-batom-vermelho-matte-opcao-da-acabament-opengraph_1200-1.png"
-    }
-  ];
-
+    },
+  {
+   name: "Gloss Labial Brilho Intenso",
+  price: "R$ 24,90",
+  oldPrice: "R$ 39,90",
+  badge: "💄 Novo",
+  img: "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=800&q=80"
+ } 
+  
   return (
     <div style={{ fontFamily: "Arial" }}>
 
