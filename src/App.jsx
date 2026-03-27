@@ -16,7 +16,7 @@ export default function App() {
       price: "R$ 69,90",
       oldPrice: "R$ 99,90",
       badge: "⭐ Favorito",
-      img: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80"
+      img: "https://png.pngtree.com/png-vector/20240724/ourlarge/pngtree-set-of-makeup-brushes-png-image_13231086.png"
     },
     {
       name: "Paleta de Sombras",
