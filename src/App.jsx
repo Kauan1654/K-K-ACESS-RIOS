@@ -37,7 +37,7 @@ export default function App() {
   price: "R$ 24,90",
   oldPrice: "R$ 39,90",
   badge: "💄 Novo",
-  img: "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?auto=format&fit=crop&w=800&q=80"
+  img: "https://tse3.mm.bing.net/th/id/OIP.Wfikt7RFkYn2GdSm709yOQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
  } 
   ];
   return (
